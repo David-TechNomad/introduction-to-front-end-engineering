@@ -64,4 +64,3 @@ MIT
 
 ## 赞助
 ![](./img/wx.jpeg)
-![](./img/zfb.jpeg)
