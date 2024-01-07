@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsh225/introduction-to-front-end-engineering.git"
+    "url": "git+https://github.com/David-TechNomad/introduction-to-front-end-engineering.git"
   },
   "keywords": [
     "前端工程"
   ],
-  "author": "谭光志",
+  "author": "dushihong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dsh225/introduction-to-front-end-engineering/issues"
+    "url": "https://github.com/David-TechNomad/introduction-to-front-end-engineering/issues"
   },
-  "homepage": "https://github.com/dsh225/introduction-to-front-end-engineering#readme",
+  "homepage": "https://github.com/David-TechNomad/introduction-to-front-end-engineering#readme",
   "devDependencies": {
     "vuepress": "^1.8.0"
   }

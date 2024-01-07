@@ -21,7 +21,7 @@ module.exports = {
             ['/12', '12. Serverless'],
         ],
         displayAllHeaders: true,
-        repo: 'https://github.com/dsh225/introduction-to-front-end-engineering',
+        repo: 'https://github.com/David-TechNomad/introduction-to-front-end-engineering',
         repoLabel: '给作者的 Github 点个 star 吧！',
         smoothScroll: true,
     }

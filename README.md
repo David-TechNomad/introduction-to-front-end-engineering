@@ -11,7 +11,7 @@
 可能有人会问，什么时候开始做工程化？我认为在需求评审阶段就可以做工程化了，根据需求选用适当的技术栈（技术选型），然后制定相关规范...
 
 ## 在线访问
-* [访问入口](https://dsh225.github.io/introduction-to-front-end-engineering/)
+* [访问入口](https://David-TechNomad.github.io/introduction-to-front-end-engineering/)
 
 ## 目录
 1. 技术选型：如何进行技术选型？
@@ -57,14 +57,14 @@
 
 ## 扩展
 由于这本小书主要就是针对一个技术点讲解它是什么？怎么做？对于更细的点不会有深入的讲解。为了弥补这一点，我写了一些其他文章来对此做为补充：
-* [手把手教你写一个脚手架](https://github.com/dsh225/Front-end-articles/issues/22)
-* [深入了解 webpack 模块加载原理](https://github.com/dsh225/Front-end-articles/issues/7)
-* [实现一个 webpack loader 和 webpack plugin](https://github.com/dsh225/Front-end-articles/issues/6)
-* [从 rollup 初版源码学习打包原理](https://github.com/dsh225/Front-end-articles/issues/5)
+* [手把手教你写一个脚手架](https://github.com/David-TechNomad/Front-end-articles/issues/22)
+* [深入了解 webpack 模块加载原理](https://github.com/David-TechNomad/Front-end-articles/issues/7)
+* [实现一个 webpack loader 和 webpack plugin](https://github.com/David-TechNomad/Front-end-articles/issues/6)
+* [从 rollup 初版源码学习打包原理](https://github.com/David-TechNomad/Front-end-articles/issues/5)
 
 ## License
 MIT
 
 ## 赞助
-![](https://github.com/dsh225/nand2tetris/blob/master/img/wx.jpeg)
-![](https://github.com/dsh225/nand2tetris/blob/master/img/zfb.jpeg)
+![](https://github.com/David-TechNomad/nand2tetris/blob/master/img/wx.jpeg)
+![](https://github.com/David-TechNomad/nand2tetris/blob/master/img/zfb.jpeg)
